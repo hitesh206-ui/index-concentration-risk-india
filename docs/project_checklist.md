@@ -51,4 +51,4 @@
 - [ ] Draft methodology
 - [ ] Insert empirical results
 - [ ] Generate publication charts
-- [ ] Draft SSRN working paper
+- [ ] Draft working paper
