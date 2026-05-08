@@ -1,0 +1,11 @@
+index_id,index_name,provider,country,index_type,category,currency,target_constituent_count,start_date,included_in_study,notes
+NIFTY50,Nifty 50,NSE Indices,India,Broad,Large-cap,INR,50,,Yes,Primary Indian benchmark
+NIFTYNEXT50,Nifty Next 50,NSE Indices,India,Broad,Large-cap,INR,50,,Yes,Next tier large-cap benchmark
+NIFTY100,Nifty 100,NSE Indices,India,Broad,Large-cap,INR,100,,Yes,Large-cap broader universe
+NIFTY500,Nifty 500,NSE Indices,India,Broad,Multi-cap,INR,500,,Yes,Broad Indian market proxy
+SENSEX,BSE Sensex,BSE,India,Broad,Large-cap,INR,30,,Yes,BSE flagship index
+BSE500,BSE 500,BSE,India,Broad,Multi-cap,INR,500,,Yes,BSE broad market proxy
+NIFTYBANK,Nifty Bank,NSE Indices,India,Sector,Banking,INR,12,,Yes,Sectoral index
+NIFTYIT,Nifty IT,NSE Indices,India,Sector,Information Technology,INR,10,,Yes,Sectoral index
+NIFTYFMCG,Nifty FMCG,NSE Indices,India,Sector,FMCG,INR,15,,Yes,Sectoral index
+NIFTYAUTO,Nifty Auto,NSE Indices,India,Sector,Automobile,INR,15,,Yes,Sectoral index
