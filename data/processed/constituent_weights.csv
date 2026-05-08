@@ -1,0 +1,4 @@
+obs_id,index_id,index_name,snapshot_date,constituent_rank,constituent_name,ticker,sector,weight_percent,coverage_type,source_id,notes
+CW001,NIFTY50,Nifty 50,,1,Reliance Industries,RELIANCE,Energy,13.63,top10_only,SRC001,Sample placeholder from project notes; verify against factsheet
+CW002,NIFTY50,Nifty 50,,2,HDFC Bank,HDFCBANK,Financial Services,9.99,top10_only,SRC001,Sample placeholder from project notes; verify against factsheet
+CW003,NIFTY50,Nifty 50,,3,Infosys,INFY,Information Technology,7.03,top10_only,SRC001,Sample placeholder from project notes; verify against factsheet
