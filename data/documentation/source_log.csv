@@ -1,1 +1,2 @@
 source_id,index_name,snapshot_date,source_type,source_url,notes
+NSE_NIFTY50_FACTSHEET_2026_04_30,Nifty 50,2026-04-30,Official NSE/Nifty index factsheet,https://nsearchives.nseindia.com/content/indices/ind_nifty50.pdf,"Used for Nifty 50 top-10 constituent weights and sector weights. Factsheet provides top-10 constituent weights, not all 50 constituent weights."
