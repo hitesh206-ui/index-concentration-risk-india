@@ -57,19 +57,23 @@
 
 ## Priority 5: Policy and Global Comparison
 
+- [x] Add SEBI framework coding template
+- [ ] Fill SEBI Significant Indices framework variables
 - [ ] Add global benchmark concentration metrics
-- [ ] Add SEBI Significant Indices framework variables
 - [ ] Compare AUM-threshold approach with concentration-risk ranking
 - [ ] Identify potential framework gaps
 
 ## Priority 6: Paper Development
 
 - [x] Add working paper outline
+- [x] Add writing roadmap
+- [x] Add paper readiness criteria
 - [x] Draft introduction
 - [x] Draft research questions
 - [x] Draft data and sample construction section
 - [x] Draft methodology section
 - [x] Draft limitations section
+- [x] Add empirical results template
 - [ ] Insert empirical results
 - [ ] Generate final publication charts
 - [ ] Draft full working paper
