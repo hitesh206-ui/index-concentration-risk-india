@@ -2,12 +2,15 @@
 
 ## Priority 1: Foundation
 
-- [ ] Build Excel data collection template
-- [ ] Create `index_master.csv`
-- [ ] Create `constituent_weights.csv`
-- [ ] Create `sector_weights.csv`
-- [ ] Create `source_log.csv`
-- [ ] Test concentration metrics on current Nifty 50 weights
+- [x] Build Excel data collection template
+- [x] Create `index_master.csv`
+- [x] Create `constituent_weights.csv`
+- [x] Create `sector_weights.csv`
+- [x] Create `source_log.csv`
+- [x] Add Python concentration-metrics module
+- [x] Add runnable concentration-metrics script
+- [ ] Replace placeholder constituent weights with verified current Nifty 50 data
+- [ ] Test concentration metrics on verified current Nifty 50 weights
 - [ ] Generate first HHI and top-weight summary table
 
 ## Priority 2: Historical Data Assembly
@@ -20,12 +23,13 @@
 
 ## Priority 3: Metric Computation
 
-- [ ] Compute HHI
-- [ ] Compute Top-3, Top-5, and Top-10 weights
-- [ ] Compute Effective N
-- [ ] Compute sector HHI
-- [ ] Compute Theil entropy
-- [ ] Validate weight sums
+- [x] Implement HHI decimal and HHI percent-points calculations
+- [x] Implement Top-3, Top-5, and Top-10 weights
+- [x] Implement Effective N
+- [x] Implement sector HHI functions
+- [x] Implement Shannon entropy and Theil concentration
+- [ ] Validate weight sums on verified data
+- [ ] Compare Excel output against Python output
 
 ## Priority 4: Risk Linkage
 
