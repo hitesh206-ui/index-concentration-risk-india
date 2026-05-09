@@ -1,2 +1,9 @@
 source_id,index_name,snapshot_date,source_type,source_url,notes
 NSE_NIFTY50_FACTSHEET_2026_04_30,Nifty 50,2026-04-30,Official NSE/Nifty index factsheet,https://nsearchives.nseindia.com/content/indices/ind_nifty50.pdf,"Used for Nifty 50 top-10 constituent weights and sector weights. Factsheet provides top-10 constituent weights, not all 50 constituent weights."
+NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Nifty Next 50,2026-04-30,Official NSE/Nifty index factsheet,https://www.niftyindices.com/Factsheet/ind_nifty_next50.pdf,"Used for Nifty Next 50 top-10 constituent weights and sector weights."
+NSE_NIFTY100_FACTSHEET_2026_04_30,Nifty 100,2026-04-30,Official NSE/Nifty index factsheet,https://www.niftyindices.com/Factsheet/ind_nifty_100.pdf,"Used for Nifty 100 top-10 constituent weights and sector weights."
+NSE_NIFTY500_FACTSHEET_2026_04_30,Nifty 500,2026-04-30,Official NSE/Nifty index factsheet,https://www.niftyindices.com/Factsheet/ind_nifty_500.pdf,"Used for Nifty 500 top-10 constituent weights and sector weights."
+NSE_NIFTYBANK_FACTSHEET_2026_04_30,Nifty Bank,2026-04-30,Official NSE/Nifty index factsheet,https://www.niftyindices.com/Factsheet/ind_nifty_bank.pdf,"Used for Nifty Bank top-10 constituent weights."
+NSE_NIFTYIT_FACTSHEET_2026_04_30,Nifty IT,2026-04-30,Official NSE/Nifty index factsheet,https://www.niftyindices.com/Factsheet/ind_nifty_it.pdf,"Used for Nifty IT constituent weights; factsheet lists all 10 constituents."
+NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Nifty FMCG,2026-04-30,Official NSE/Nifty index factsheet,https://www.niftyindices.com/Factsheet/ind_nifty_FMCG.pdf,"Used for Nifty FMCG top-10 constituent weights."
+NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Nifty Auto,2026-04-30,Official NSE/Nifty index factsheet,https://www.niftyindices.com/Factsheet/ind_nifty_auto.pdf,"Used for Nifty Auto top-10 constituent weights."
