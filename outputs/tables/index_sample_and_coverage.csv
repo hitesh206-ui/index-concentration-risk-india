@@ -1,0 +1,11 @@
+index_id,index_name,provider,snapshot_date,coverage_type,included_in_current_snapshot,notes
+NIFTY50,Nifty 50,NSE Indices,2026-04-30,top10_only,Yes,Official factsheet top-10 constituent weights plus sector weights
+NIFTYNEXT50,Nifty Next 50,NSE Indices,2026-04-30,top10_only,Yes,Official factsheet top-10 constituent weights plus sector weights
+NIFTY100,Nifty 100,NSE Indices,2026-04-30,top10_only,Yes,Official factsheet top-10 constituent weights plus sector weights
+NIFTY500,Nifty 500,NSE Indices,2026-04-30,top10_only,Yes,Official factsheet top-10 constituent weights plus sector weights
+NIFTYBANK,Nifty Bank,NSE Indices,2026-04-30,top10_only,Yes,Official factsheet top-10 constituent weights
+NIFTYIT,Nifty IT,NSE Indices,2026-04-30,full_constituents,Yes,Official factsheet lists all 10 constituents
+NIFTYFMCG,Nifty FMCG,NSE Indices,2026-04-30,top10_only,Yes,Official factsheet top-10 constituent weights
+NIFTYAUTO,Nifty Auto,NSE Indices,2026-04-30,top10_only,Yes,Official factsheet top-10 constituent weights
+SENSEX,BSE Sensex,BSE,2025-10-31,full_constituents,Yes,Official BSE scripwise weightage
+BSE500,BSE 500,BSE,,not_included,No,Current snapshot source pending
