@@ -1,0 +1,10 @@
+index_id,index_name,snapshot_date,coverage_type,top3_weight_percent,top5_weight_percent,top10_weight_percent,hhi_percent_points,effective_n,sector_hhi_percent_points,data_quality_flag
+NIFTY50,Nifty 50,2026-04-30,top10_only,27.72,37.26,53.68,361.1172,27.6918,1638.7733,partial_constituents
+NIFTYNEXT50,Nifty Next 50,2026-04-30,top10_only,10.54,17.20,31.42,99.7776,100.2229,1160.6448,partial_constituents
+NIFTY100,Nifty 100,2026-04-30,top10_only,22.64,30.44,43.85,240.9829,41.4967,1451.1233,partial_constituents
+NIFTY500,Nifty 500,2026-04-30,top10_only,15.73,21.15,30.49,116.4037,85.9079,1308.4940,partial_constituents
+NIFTYBANK,Nifty Bank,2026-04-30,top10_only,41.94,61.54,86.59,942.0199,10.6155,10000.0000,partial_constituents
+NIFTYIT,Nifty IT,2026-04-30,full_constituents,60.02,77.66,99.98,1602.4612,6.2404,10000.0000,ok
+NIFTYFMCG,Nifty FMCG,2026-04-30,top10_only,57.40,71.08,91.68,1460.8192,6.8455,10000.0000,partial_constituents
+NIFTYAUTO,Nifty Auto,2026-04-30,top10_only,48.61,64.16,89.06,1141.8614,8.7576,10000.0000,partial_constituents
+SENSEX,BSE Sensex,2025-10-31,full_constituents,34.88,45.87,65.28,628.2988,15.9160,2079.1439,ok
