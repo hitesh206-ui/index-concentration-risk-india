@@ -11,17 +11,23 @@
 - [x] Add runnable concentration-metrics script
 - [x] Add risk-metrics module and runner script
 - [x] Add data-quality validation script
-- [ ] Replace placeholder constituent weights with verified current Nifty 50 data
-- [ ] Test concentration metrics on verified current Nifty 50 weights
-- [ ] Generate first HHI and top-weight summary table
+- [x] Replace placeholder constituent weights with verified current index snapshots where available
+- [x] Generate first HHI and top-weight summary table
+- [x] Document BSE 500 exclusion for current snapshot
 
-## Priority 2: Historical Data Assembly
+## Priority 2: Current Snapshot Data Assembly
 
-- [ ] Collect current factsheets for all planned Indian indices
-- [ ] Collect historical factsheet snapshots for Nifty 50, Sensex, and Nifty 500
-- [ ] Expand to Nifty Next 50, Nifty 100, BSE 500, and sectoral indices
-- [ ] Mark each observation as monthly, quarterly, annual, or current snapshot
-- [ ] Record all source URLs in the source log
+- [x] Add current Nifty 50 snapshot
+- [x] Add current Nifty Next 50 snapshot
+- [x] Add current Nifty 100 snapshot
+- [x] Add current Nifty 500 snapshot
+- [x] Add current Nifty Bank snapshot
+- [x] Add current Nifty IT snapshot
+- [x] Add current Nifty FMCG snapshot
+- [x] Add current Nifty Auto snapshot
+- [x] Add current BSE Sensex snapshot
+- [x] Add source URLs in the source log
+- [x] Add index sample and coverage table
 
 ## Priority 3: Metric Computation
 
@@ -30,14 +36,18 @@
 - [x] Implement Effective N
 - [x] Implement sector HHI functions
 - [x] Implement Shannon entropy and Theil concentration
-- [ ] Validate weight sums on verified data
+- [x] Add current-snapshot concentration summary output
+- [x] Add current-snapshot chart
 - [ ] Compare Excel output against Python output
 
 ## Priority 4: Risk Linkage
 
+- [x] Add index return input template
+- [x] Add index return source map
 - [ ] Collect index price/value data
 - [x] Add monthly return and drawdown calculation functions
 - [x] Add annualized volatility and maximum drawdown functions
+- [ ] Run risk metrics on populated index return data
 - [ ] Build concentration-risk panel dataset
 - [ ] Test relation between concentration and risk metrics
 
