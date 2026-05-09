@@ -7,3 +7,4 @@ NSE_NIFTYBANK_FACTSHEET_2026_04_30,Nifty Bank,2026-04-30,Official NSE/Nifty inde
 NSE_NIFTYIT_FACTSHEET_2026_04_30,Nifty IT,2026-04-30,Official NSE/Nifty index factsheet,https://www.niftyindices.com/Factsheet/ind_nifty_it.pdf,"Used for Nifty IT constituent weights; factsheet lists all 10 constituents."
 NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Nifty FMCG,2026-04-30,Official NSE/Nifty index factsheet,https://www.niftyindices.com/Factsheet/ind_nifty_FMCG.pdf,"Used for Nifty FMCG top-10 constituent weights."
 NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Nifty Auto,2026-04-30,Official NSE/Nifty index factsheet,https://www.niftyindices.com/Factsheet/ind_nifty_auto.pdf,"Used for Nifty Auto top-10 constituent weights."
+BSE_SENSEX_SCRIPWEIGHT_2025_10_31,BSE Sensex,2025-10-31,Official BSE scripwise weightage,https://www.bseindia.com/sensex/code/16/,"Used for BSE Sensex full constituent weights and derived sector weights."
