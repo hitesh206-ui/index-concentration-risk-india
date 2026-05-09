@@ -38,13 +38,17 @@
 - [x] Implement Shannon entropy and Theil concentration
 - [x] Add current-snapshot concentration summary output
 - [x] Add current-snapshot chart
+- [x] Add automated current-snapshot output generation script
 - [ ] Compare Excel output against Python output
 
 ## Priority 4: Risk Linkage
 
 - [x] Add index return input template
 - [x] Add index return source map
-- [ ] Collect index price/value data
+- [x] Add Yahoo Finance symbol map
+- [x] Add Yahoo Finance return download script
+- [x] Add manual official CSV standardization script
+- [ ] Populate index return data for all included indices
 - [x] Add monthly return and drawdown calculation functions
 - [x] Add annualized volatility and maximum drawdown functions
 - [ ] Run risk metrics on populated index return data
@@ -60,10 +64,12 @@
 
 ## Priority 6: Paper Development
 
-- [ ] Draft introduction
-- [ ] Draft institutional background
-- [ ] Draft literature review
-- [ ] Draft methodology
+- [x] Add working paper outline
+- [x] Draft introduction
+- [x] Draft research questions
+- [x] Draft data and sample construction section
+- [x] Draft methodology section
+- [x] Draft limitations section
 - [ ] Insert empirical results
-- [ ] Generate publication charts
-- [ ] Draft working paper
+- [ ] Generate final publication charts
+- [ ] Draft full working paper
