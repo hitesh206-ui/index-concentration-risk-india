@@ -39,6 +39,7 @@
 - [x] Add current-snapshot concentration summary output
 - [x] Add current-snapshot chart
 - [x] Add automated current-snapshot output generation script
+- [x] Add sector concentration summary generation script
 - [ ] Compare Excel output against Python output
 
 ## Priority 4: Risk Linkage
@@ -51,6 +52,7 @@
 - [ ] Populate index return data for all included indices
 - [x] Add monthly return and drawdown calculation functions
 - [x] Add annualized volatility and maximum drawdown functions
+- [x] Add risk-linkage chart generation script
 - [ ] Run risk metrics on populated index return data
 - [ ] Build concentration-risk panel dataset
 - [ ] Test relation between concentration and risk metrics
@@ -73,6 +75,8 @@
 - [x] Draft data and sample construction section
 - [x] Draft methodology section
 - [x] Draft limitations section
+- [x] Add institutional background draft
+- [x] Add literature review scaffold
 - [x] Add empirical results template
 - [ ] Insert empirical results
 - [ ] Generate final publication charts
