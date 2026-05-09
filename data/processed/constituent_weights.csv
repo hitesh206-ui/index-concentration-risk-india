@@ -79,3 +79,34 @@ CW077,NIFTYAUTO,Nifty Auto,2026-04-30,7,Hero MotoCorp Ltd.,HEROMOTOCO,Automobile
 CW078,NIFTYAUTO,Nifty Auto,2026-04-30,8,Samvardhana Motherson International Ltd.,MOTHERSON,Automobile and Auto Components,4.64,top10_only,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
 CW079,NIFTYAUTO,Nifty Auto,2026-04-30,9,Bharat Forge Ltd.,BHARATFORG,Automobile and Auto Components,4.34,top10_only,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
 CW080,NIFTYAUTO,Nifty Auto,2026-04-30,10,Ashok Leyland Ltd.,ASHOKLEY,Automobile and Auto Components,4.01,top10_only,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW081,SENSEX,BSE Sensex,2025-10-31,1,HDFC Bank Ltd.,500180,Financial Services,15.08,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW082,SENSEX,BSE Sensex,2025-10-31,2,Reliance Industries Ltd.,500325,Energy,10.13,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW083,SENSEX,BSE Sensex,2025-10-31,3,ICICI Bank Ltd.,532174,Financial Services,9.67,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW084,SENSEX,BSE Sensex,2025-10-31,4,Bharti Airtel Ltd.,532454,Telecommunication,5.66,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW085,SENSEX,BSE Sensex,2025-10-31,5,Infosys Ltd.,500209,Information Technology,5.33,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW086,SENSEX,BSE Sensex,2025-10-31,6,Larsen & Toubro Ltd.,500510,Industrials,4.75,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW087,SENSEX,BSE Sensex,2025-10-31,7,ITC Ltd.,500875,Fast Moving Consumer Goods,4.08,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW088,SENSEX,BSE Sensex,2025-10-31,8,State Bank of India,500112,Financial Services,3.92,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW089,SENSEX,BSE Sensex,2025-10-31,9,Axis Bank Ltd.,532215,Financial Services,3.54,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW090,SENSEX,BSE Sensex,2025-10-31,10,TCS Ltd.,532540,Information Technology,3.12,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW091,SENSEX,BSE Sensex,2025-10-31,11,Kotak Mahindra Bank Ltd.,500247,Financial Services,3.11,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW092,SENSEX,BSE Sensex,2025-10-31,12,Mahindra & Mahindra Ltd.,500520,Consumer Discretionary,3.10,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW093,SENSEX,BSE Sensex,2025-10-31,13,Bajaj Auto Ltd.,500034,Consumer Discretionary,2.74,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW094,SENSEX,BSE Sensex,2025-10-31,14,Eternal Ltd.,543320,Consumer Discretionary,2.22,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW095,SENSEX,BSE Sensex,2025-10-31,15,Hindustan Unilever Ltd.,500696,Fast Moving Consumer Goods,2.22,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW096,SENSEX,BSE Sensex,2025-10-31,16,Maruti Suzuki India Ltd.,532500,Consumer Discretionary,2.15,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW097,SENSEX,BSE Sensex,2025-10-31,17,Sun Pharmaceutical Industries Ltd.,524715,Healthcare,1.80,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW098,SENSEX,BSE Sensex,2025-10-31,18,HCL Technologies Ltd.,532281,Information Technology,1.64,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW099,SENSEX,BSE Sensex,2025-10-31,19,NTPC Ltd.,532555,Utilities,1.61,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW100,SENSEX,BSE Sensex,2025-10-31,20,Titan Company Ltd.,500114,Consumer Discretionary,1.54,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW101,SENSEX,BSE Sensex,2025-10-31,21,Bharat Electronics Ltd.,500049,Industrials,1.54,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW102,SENSEX,BSE Sensex,2025-10-31,22,Tata Steel Ltd.,500470,Commodities,1.52,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW103,SENSEX,BSE Sensex,2025-10-31,23,UltraTech Cement Ltd.,532538,Industrials,1.42,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW104,SENSEX,BSE Sensex,2025-10-31,24,Power Grid Corporation of India Ltd.,532898,Utilities,1.32,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW105,SENSEX,BSE Sensex,2025-10-31,25,Bajaj Finserv Ltd.,532978,Financial Services,1.21,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW106,SENSEX,BSE Sensex,2025-10-31,26,Asian Paints Ltd.,500820,Commodities,1.14,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW107,SENSEX,BSE Sensex,2025-10-31,27,Adani Ports and Special Economic Zone Ltd.,532921,Services,1.07,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW108,SENSEX,BSE Sensex,2025-10-31,28,Trent Ltd.,500251,Consumer Discretionary,1.04,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW109,SENSEX,BSE Sensex,2025-10-31,29,Tech Mahindra Ltd.,532755,Information Technology,0.91,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW110,SENSEX,BSE Sensex,2025-10-31,30,Tata Motors Passenger Vehicles Ltd.,500570,Consumer Discretionary,0.87,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
+CW111,SENSEX,BSE Sensex,2025-10-31,31,Tata Motors Ltd.,544569,Consumer Discretionary,0.55,full_constituents,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage
