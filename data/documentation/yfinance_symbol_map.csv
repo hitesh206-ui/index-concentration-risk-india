@@ -1,0 +1,10 @@
+index_id,index_name,yfinance_symbol,status,notes
+NIFTY50,Nifty 50,^NSEI,verified_public_symbol,Yahoo Finance lists Nifty 50 under ^NSEI
+SENSEX,BSE Sensex,^BSESN,verified_public_symbol,Yahoo Finance lists S&P BSE Sensex under ^BSESN
+NIFTYBANK,Nifty Bank,^NSEBANK,needs_runtime_check,Common Yahoo symbol; verify download output before use
+NIFTYIT,Nifty IT,^CNXIT,needs_runtime_check,Common Yahoo symbol; verify download output before use
+NIFTYNEXT50,Nifty Next 50,,manual_or_official_source_needed,Prefer official NSE historical index data if symbol is unavailable
+NIFTY100,Nifty 100,,manual_or_official_source_needed,Prefer official NSE historical index data if symbol is unavailable
+NIFTY500,Nifty 500,,manual_or_official_source_needed,Prefer official NSE historical index data if symbol is unavailable
+NIFTYFMCG,Nifty FMCG,,manual_or_official_source_needed,Prefer official NSE historical index data if symbol is unavailable
+NIFTYAUTO,Nifty Auto,,manual_or_official_source_needed,Prefer official NSE historical index data if symbol is unavailable
