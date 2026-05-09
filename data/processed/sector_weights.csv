@@ -68,3 +68,14 @@ SW066,NIFTYBANK,Nifty Bank,2026-04-30,Financial Services,100.00,NSE_NIFTYBANK_FA
 SW067,NIFTYIT,Nifty IT,2026-04-30,Information Technology,100.00,NSE_NIFTYIT_FACTSHEET_2026_04_30,Sectoral index treated as single-sector exposure
 SW068,NIFTYFMCG,Nifty FMCG,2026-04-30,Fast Moving Consumer Goods,100.00,NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Sectoral index treated as single-sector exposure
 SW069,NIFTYAUTO,Nifty Auto,2026-04-30,Automobile and Auto Components,100.00,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Sectoral index treated as single-sector exposure
+SW070,SENSEX,BSE Sensex,2025-10-31,Financial Services,39.58,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage aggregated by sector
+SW071,SENSEX,BSE Sensex,2025-10-31,Consumer Discretionary,12.95,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage aggregated by sector
+SW072,SENSEX,BSE Sensex,2025-10-31,Energy,10.99,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage aggregated by sector
+SW073,SENSEX,BSE Sensex,2025-10-31,Information Technology,9.72,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage aggregated by sector
+SW074,SENSEX,BSE Sensex,2025-10-31,Industrials,6.44,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage aggregated by sector
+SW075,SENSEX,BSE Sensex,2025-10-31,Fast Moving Consumer Goods,6.03,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage aggregated by sector
+SW076,SENSEX,BSE Sensex,2025-10-31,Telecommunication,5.41,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage aggregated by sector
+SW077,SENSEX,BSE Sensex,2025-10-31,Utilities,3.05,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage aggregated by sector
+SW078,SENSEX,BSE Sensex,2025-10-31,Commodities,2.98,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage aggregated by sector
+SW079,SENSEX,BSE Sensex,2025-10-31,Healthcare,1.77,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage aggregated by sector
+SW080,SENSEX,BSE Sensex,2025-10-31,Services,1.09,BSE_SENSEX_SCRIPWEIGHT_2025_10_31,Official BSE scripwise weightage aggregated by sector
