@@ -1,0 +1,11 @@
+index_id,index_name,included_in_current_snapshot,significant_index_flag,aum_relevance_placeholder,concentration_risk_rank_placeholder,framework_gap_flag_placeholder,notes
+NIFTY50,Nifty 50,Yes,,,,,To be completed after SEBI framework coding
+NIFTYNEXT50,Nifty Next 50,Yes,,,,,To be completed after SEBI framework coding
+NIFTY100,Nifty 100,Yes,,,,,To be completed after SEBI framework coding
+NIFTY500,Nifty 500,Yes,,,,,To be completed after SEBI framework coding
+NIFTYBANK,Nifty Bank,Yes,,,,,To be completed after SEBI framework coding
+NIFTYIT,Nifty IT,Yes,,,,,To be completed after SEBI framework coding
+NIFTYFMCG,Nifty FMCG,Yes,,,,,To be completed after SEBI framework coding
+NIFTYAUTO,Nifty Auto,Yes,,,,,To be completed after SEBI framework coding
+SENSEX,BSE Sensex,Yes,,,,,To be completed after SEBI framework coding
+BSE500,BSE 500,No,,,,,Current snapshot source pending
