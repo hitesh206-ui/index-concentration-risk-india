@@ -14,3 +14,53 @@ SW012,NIFTY50,Nifty 50,2026-04-30,Consumer Services,2.45,NSE_NIFTY50_FACTSHEET_2
 SW013,NIFTY50,Nifty 50,2026-04-30,Construction Materials,2.21,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
 SW014,NIFTY50,Nifty 50,2026-04-30,Services,1.99,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
 SW015,NIFTY50,Nifty 50,2026-04-30,Capital Goods,1.40,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW016,NIFTYNEXT50,Nifty Next 50,2026-04-30,"Capital Goods",20.77,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW017,NIFTYNEXT50,Nifty Next 50,2026-04-30,"Automobile and Auto Components",16.87,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW018,NIFTYNEXT50,Nifty Next 50,2026-04-30,"Power",11.12,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW019,NIFTYNEXT50,Nifty Next 50,2026-04-30,"Consumer Services",8.91,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW020,NIFTYNEXT50,Nifty Next 50,2026-04-30,"Fast Moving Consumer Goods",7.82,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW021,NIFTYNEXT50,Nifty Next 50,2026-04-30,"Healthcare",7.24,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW022,NIFTYNEXT50,Nifty Next 50,2026-04-30,"Financial Services",6.42,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW023,NIFTYNEXT50,Nifty Next 50,2026-04-30,"Oil, Gas & Consumable Fuels",6.03,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW024,NIFTYNEXT50,Nifty Next 50,2026-04-30,"Services",5.00,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW025,NIFTYNEXT50,Nifty Next 50,2026-04-30,"Metals & Mining",3.25,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW026,NIFTYNEXT50,Nifty Next 50,2026-04-30,"Consumer Durables",2.55,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW027,NIFTYNEXT50,Nifty Next 50,2026-04-30,"Construction Materials",2.41,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW028,NIFTYNEXT50,Nifty Next 50,2026-04-30,"Chemicals",1.61,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW029,NIFTY100,Nifty 100,2026-04-30,"Financial Services",32.62,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW030,NIFTY100,Nifty 100,2026-04-30,"Oil, Gas & Consumable Fuels",10.17,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW031,NIFTY100,Nifty 100,2026-04-30,"Information Technology",7.30,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW032,NIFTY100,Nifty 100,2026-04-30,"Automobile and Auto Components",6.86,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW033,NIFTY100,Nifty 100,2026-04-30,"Capital Goods",6.70,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW034,NIFTY100,Nifty 100,2026-04-30,"Fast Moving Consumer Goods",4.98,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW035,NIFTY100,Nifty 100,2026-04-30,"Healthcare",4.80,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW036,NIFTY100,Nifty 100,2026-04-30,"Power",4.51,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW037,NIFTY100,Nifty 100,2026-04-30,"Telecommunication",4.30,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW038,NIFTY100,Nifty 100,2026-04-30,"Consumer Services",4.24,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW039,NIFTY100,Nifty 100,2026-04-30,"Construction",3.50,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW040,NIFTY100,Nifty 100,2026-04-30,"Metals & Mining",2.92,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW041,NIFTY100,Nifty 100,2026-04-30,"Consumer Durables",2.25,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW042,NIFTY100,Nifty 100,2026-04-30,"Construction Materials",2.16,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW043,NIFTY100,Nifty 100,2026-04-30,"Services",1.63,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW044,NIFTY100,Nifty 100,2026-04-30,"Chemicals",0.60,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW045,NIFTY100,Nifty 100,2026-04-30,"Realty",0.47,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW046,NIFTY500,Nifty 500,2026-04-30,"Financial Services",30.63,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW047,NIFTY500,Nifty 500,2026-04-30,"Oil, Gas & Consumable Fuels",7.88,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW048,NIFTY500,Nifty 500,2026-04-30,"Capital Goods",7.11,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW049,NIFTY500,Nifty 500,2026-04-30,"Automobile and Auto Components",6.97,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW050,NIFTY500,Nifty 500,2026-04-30,"Healthcare",6.59,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW051,NIFTY500,Nifty 500,2026-04-30,"Information Technology",6.47,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW052,NIFTY500,Nifty 500,2026-04-30,"Fast Moving Consumer Goods",5.87,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW053,NIFTY500,Nifty 500,2026-04-30,"Metals & Mining",4.40,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW054,NIFTY500,Nifty 500,2026-04-30,"Power",3.95,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW055,NIFTY500,Nifty 500,2026-04-30,"Telecommunication",3.68,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW056,NIFTY500,Nifty 500,2026-04-30,"Consumer Services",3.52,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW057,NIFTY500,Nifty 500,2026-04-30,"Construction",2.92,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW058,NIFTY500,Nifty 500,2026-04-30,"Consumer Durables",2.78,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW059,NIFTY500,Nifty 500,2026-04-30,"Chemicals",1.97,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW060,NIFTY500,Nifty 500,2026-04-30,"Construction Materials",1.91,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW061,NIFTY500,Nifty 500,2026-04-30,"Services",1.86,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW062,NIFTY500,Nifty 500,2026-04-30,"Realty",1.05,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW063,NIFTY500,Nifty 500,2026-04-30,"Textiles",0.24,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW064,NIFTY500,Nifty 500,2026-04-30,"Media, Entertainment & Publication",0.13,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW065,NIFTY500,Nifty 500,2026-04-30,"Diversified",0.09,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
