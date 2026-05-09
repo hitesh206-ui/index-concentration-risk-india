@@ -9,6 +9,8 @@
 - [x] Create `source_log.csv`
 - [x] Add Python concentration-metrics module
 - [x] Add runnable concentration-metrics script
+- [x] Add risk-metrics module and runner script
+- [x] Add data-quality validation script
 - [ ] Replace placeholder constituent weights with verified current Nifty 50 data
 - [ ] Test concentration metrics on verified current Nifty 50 weights
 - [ ] Generate first HHI and top-weight summary table
@@ -34,9 +36,8 @@
 ## Priority 4: Risk Linkage
 
 - [ ] Collect index price/value data
-- [ ] Compute monthly returns
-- [ ] Compute annualized volatility
-- [ ] Compute maximum drawdown
+- [x] Add monthly return and drawdown calculation functions
+- [x] Add annualized volatility and maximum drawdown functions
 - [ ] Build concentration-risk panel dataset
 - [ ] Test relation between concentration and risk metrics
 
