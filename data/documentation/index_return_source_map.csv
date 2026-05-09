@@ -1,0 +1,10 @@
+index_id,index_name,preferred_source,public_symbol_or_code,status,notes
+NIFTY50,Nifty 50,NSE historical index data,NIFTY 50,pending,Use official NSE index historical data where possible
+NIFTYNEXT50,Nifty Next 50,NSE historical index data,NIFTY NEXT 50,pending,Use official NSE index historical data where possible
+NIFTY100,Nifty 100,NSE historical index data,NIFTY 100,pending,Use official NSE index historical data where possible
+NIFTY500,Nifty 500,NSE historical index data,NIFTY 500,pending,Use official NSE index historical data where possible
+NIFTYBANK,Nifty Bank,NSE historical index data,NIFTY BANK,pending,Use official NSE index historical data where possible
+NIFTYIT,Nifty IT,NSE historical index data,NIFTY IT,pending,Use official NSE index historical data where possible
+NIFTYFMCG,Nifty FMCG,NSE historical index data,NIFTY FMCG,pending,Use official NSE index historical data where possible
+NIFTYAUTO,Nifty Auto,NSE historical index data,NIFTY AUTO,pending,Use official NSE index historical data where possible
+SENSEX,BSE Sensex,BSE historical index data,SENSEX,pending,Use official BSE historical index data where possible
