@@ -1,1 +1,16 @@
 obs_id,index_id,index_name,snapshot_date,sector,sector_weight_percent,source_id,notes
+SW001,NIFTY50,Nifty 50,2026-04-30,Financial Services,35.27,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW002,NIFTY50,Nifty 50,2026-04-30,"Oil, Gas & Consumable Fuels",10.83,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW003,NIFTY50,Nifty 50,2026-04-30,Information Technology,8.58,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW004,NIFTY50,Nifty 50,2026-04-30,Automobile and Auto Components,6.65,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW005,NIFTY50,Nifty 50,2026-04-30,Fast Moving Consumer Goods,6.20,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW006,NIFTY50,Nifty 50,2026-04-30,Telecommunication,5.26,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW007,NIFTY50,Nifty 50,2026-04-30,Metals & Mining,4.66,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW008,NIFTY50,Nifty 50,2026-04-30,Healthcare,4.53,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW009,NIFTY50,Nifty 50,2026-04-30,Construction,4.28,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW010,NIFTY50,Nifty 50,2026-04-30,Power,3.03,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW011,NIFTY50,Nifty 50,2026-04-30,Consumer Durables,2.65,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW012,NIFTY50,Nifty 50,2026-04-30,Consumer Services,2.45,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW013,NIFTY50,Nifty 50,2026-04-30,Construction Materials,2.21,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW014,NIFTY50,Nifty 50,2026-04-30,Services,1.99,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW015,NIFTY50,Nifty 50,2026-04-30,Capital Goods,1.40,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet sector weight
