@@ -1,4 +1,11 @@
 obs_id,index_id,index_name,snapshot_date,constituent_rank,constituent_name,ticker,sector,weight_percent,coverage_type,source_id,notes
-CW001,NIFTY50,Nifty 50,,1,Reliance Industries,RELIANCE,Energy,13.63,top10_only,SRC001,Sample placeholder from project notes; verify against factsheet
-CW002,NIFTY50,Nifty 50,,2,HDFC Bank,HDFCBANK,Financial Services,9.99,top10_only,SRC001,Sample placeholder from project notes; verify against factsheet
-CW003,NIFTY50,Nifty 50,,3,Infosys,INFY,Information Technology,7.03,top10_only,SRC001,Sample placeholder from project notes; verify against factsheet
+CW001,NIFTY50,Nifty 50,2026-04-30,1,HDFC Bank Ltd.,HDFCBANK,Financial Services,10.73,top10_only,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW002,NIFTY50,Nifty 50,2026-04-30,2,Reliance Industries Ltd.,RELIANCE,"Oil, Gas & Consumable Fuels",8.78,top10_only,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW003,NIFTY50,Nifty 50,2026-04-30,3,ICICI Bank Ltd.,ICICIBANK,Financial Services,8.21,top10_only,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW004,NIFTY50,Nifty 50,2026-04-30,4,Bharti Airtel Ltd.,BHARTIARTL,Telecommunication,5.26,top10_only,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW005,NIFTY50,Nifty 50,2026-04-30,5,Larsen & Toubro Ltd.,LT,Construction,4.28,top10_only,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW006,NIFTY50,Nifty 50,2026-04-30,6,State Bank of India,SBIN,Financial Services,4.03,top10_only,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW007,NIFTY50,Nifty 50,2026-04-30,7,Infosys Ltd.,INFY,Information Technology,3.76,top10_only,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW008,NIFTY50,Nifty 50,2026-04-30,8,Axis Bank Ltd.,AXISBANK,Financial Services,3.31,top10_only,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW009,NIFTY50,Nifty 50,2026-04-30,9,ITC Ltd.,ITC,Fast Moving Consumer Goods,2.76,top10_only,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW010,NIFTY50,Nifty 50,2026-04-30,10,Kotak Mahindra Bank Ltd.,KOTAKBANK,Financial Services,2.56,top10_only,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
