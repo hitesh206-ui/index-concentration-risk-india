@@ -1,0 +1,8 @@
+table_id,table_title,status,required_input_file,notes
+T1,Index sample and coverage,ready,outputs/tables/index_sample_and_coverage.csv,Use in data section
+T2,Current snapshot concentration summary,ready,outputs/tables/current_snapshot_concentration_summary.csv,Use in empirical results section
+T3,Sector concentration summary,pending,data/processed/sector_weights.csv,Generate sector HHI ranking table
+T4,Risk metrics by index,pending,data/processed/risk_metrics.csv,Requires index return data
+T5,Concentration-risk panel,pending,data/processed/concentration_risk_panel.csv,Requires risk metrics and concentration metrics
+T6,SEBI framework comparison,pending,data/processed/sebi_framework.csv,Requires policy classification variables
+T7,Coverage limitation table,ready,outputs/tables/index_sample_and_coverage.csv,Use in limitations section
