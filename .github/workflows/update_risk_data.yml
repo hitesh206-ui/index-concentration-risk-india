@@ -1,0 +1,54 @@
+name: Update risk data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 1 * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-risk-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Download available index return data
+        run: |
+          python scripts/get_index_returns_yfinance.py
+
+      - name: Run risk metrics
+        run: |
+          python scripts/run_risk_metrics.py
+
+      - name: Build concentration-risk panel
+        run: |
+          python scripts/build_concentration_risk_panel.py
+
+      - name: Generate risk-linkage charts
+        run: |
+          python scripts/generate_risk_linkage_charts.py
+
+      - name: Generate current snapshot outputs
+        run: |
+          python scripts/generate_current_snapshot_outputs.py
+          python scripts/generate_sector_summary.py
+
+      - name: Commit generated outputs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Update risk data and generated outputs'
+          file_pattern: 'data/processed/*.csv outputs/tables/*.csv outputs/charts/*.png outputs/charts/*.svg'
