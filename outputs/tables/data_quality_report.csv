@@ -1,0 +1,8 @@
+check_name,status,detail
+bse500_current_snapshot,review,BSE 500 current snapshot source pending
+coverage_labels,ok,Included index snapshots have coverage labels
+full_constituent_snapshots,ok,Nifty IT and BSE Sensex are labelled full_constituents
+partial_constituent_snapshots,ok,Nifty broad indices and selected sectoral indices are labelled top10_only where only top-10 weights are available
+weight_scale_check,ok,Weights are stored in percentage units
+source_log_check,ok,Included index snapshots have source IDs recorded in source_log.csv
+sector_hhi_interpretation,review,Sectoral indices are treated as single-sector exposure
