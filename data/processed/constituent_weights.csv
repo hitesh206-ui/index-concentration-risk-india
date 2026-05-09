@@ -39,3 +39,43 @@ CW037,NIFTY500,Nifty 500,2026-04-30,7,Infosys Ltd.,INFY,Information Technology,2
 CW038,NIFTY500,Nifty 500,2026-04-30,8,Axis Bank Ltd.,AXISBANK,Financial Services,1.88,top10_only,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
 CW039,NIFTY500,Nifty 500,2026-04-30,9,ITC Ltd.,ITC,Fast Moving Consumer Goods,1.57,top10_only,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
 CW040,NIFTY500,Nifty 500,2026-04-30,10,Kotak Mahindra Bank Ltd.,KOTAKBANK,Financial Services,1.46,top10_only,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW041,NIFTYBANK,Nifty Bank,2026-04-30,1,HDFC Bank Ltd.,HDFCBANK,Financial Services,18.37,top10_only,NSE_NIFTYBANK_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW042,NIFTYBANK,Nifty Bank,2026-04-30,2,ICICI Bank Ltd.,ICICIBANK,Financial Services,13.55,top10_only,NSE_NIFTYBANK_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW043,NIFTYBANK,Nifty Bank,2026-04-30,3,Axis Bank Ltd.,AXISBANK,Financial Services,10.02,top10_only,NSE_NIFTYBANK_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW044,NIFTYBANK,Nifty Bank,2026-04-30,4,State Bank of India,SBIN,Financial Services,9.93,top10_only,NSE_NIFTYBANK_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW045,NIFTYBANK,Nifty Bank,2026-04-30,5,Kotak Mahindra Bank Ltd.,KOTAKBANK,Financial Services,9.67,top10_only,NSE_NIFTYBANK_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW046,NIFTYBANK,Nifty Bank,2026-04-30,6,Federal Bank Ltd.,FEDERALBNK,Financial Services,6.27,top10_only,NSE_NIFTYBANK_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW047,NIFTYBANK,Nifty Bank,2026-04-30,7,IndusInd Bank Ltd.,INDUSINDBK,Financial Services,5.35,top10_only,NSE_NIFTYBANK_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW048,NIFTYBANK,Nifty Bank,2026-04-30,8,AU Small Finance Bank Ltd.,AUBANK,Financial Services,4.97,top10_only,NSE_NIFTYBANK_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW049,NIFTYBANK,Nifty Bank,2026-04-30,9,Bank of Baroda,BANKBARODA,Financial Services,4.34,top10_only,NSE_NIFTYBANK_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW050,NIFTYBANK,Nifty Bank,2026-04-30,10,IDFC First Bank Ltd.,IDFCFIRSTB,Financial Services,4.12,top10_only,NSE_NIFTYBANK_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW051,NIFTYIT,Nifty IT,2026-04-30,1,Infosys Ltd.,INFY,Information Technology,27.34,full_constituents,NSE_NIFTYIT_FACTSHEET_2026_04_30,Official factsheet lists all 10 constituents
+CW052,NIFTYIT,Nifty IT,2026-04-30,2,Tata Consultancy Services Ltd.,TCS,Information Technology,21.41,full_constituents,NSE_NIFTYIT_FACTSHEET_2026_04_30,Official factsheet lists all 10 constituents
+CW053,NIFTYIT,Nifty IT,2026-04-30,3,Tech Mahindra Ltd.,TECHM,Information Technology,11.27,full_constituents,NSE_NIFTYIT_FACTSHEET_2026_04_30,Official factsheet lists all 10 constituents
+CW054,NIFTYIT,Nifty IT,2026-04-30,4,HCL Technologies Ltd.,HCLTECH,Information Technology,10.73,full_constituents,NSE_NIFTYIT_FACTSHEET_2026_04_30,Official factsheet lists all 10 constituents
+CW055,NIFTYIT,Nifty IT,2026-04-30,5,Wipro Ltd.,WIPRO,Information Technology,6.91,full_constituents,NSE_NIFTYIT_FACTSHEET_2026_04_30,Official factsheet lists all 10 constituents
+CW056,NIFTYIT,Nifty IT,2026-04-30,6,Persistent Systems Ltd.,PERSISTENT,Information Technology,6.29,full_constituents,NSE_NIFTYIT_FACTSHEET_2026_04_30,Official factsheet lists all 10 constituents
+CW057,NIFTYIT,Nifty IT,2026-04-30,7,Coforge Ltd.,COFORGE,Information Technology,4.84,full_constituents,NSE_NIFTYIT_FACTSHEET_2026_04_30,Official factsheet lists all 10 constituents
+CW058,NIFTYIT,Nifty IT,2026-04-30,8,LTIMindtree Ltd.,LTIM,Information Technology,4.77,full_constituents,NSE_NIFTYIT_FACTSHEET_2026_04_30,Official factsheet lists all 10 constituents
+CW059,NIFTYIT,Nifty IT,2026-04-30,9,MphasiS Ltd.,MPHASIS,Information Technology,3.63,full_constituents,NSE_NIFTYIT_FACTSHEET_2026_04_30,Official factsheet lists all 10 constituents
+CW060,NIFTYIT,Nifty IT,2026-04-30,10,Oracle Financial Services Software Ltd.,OFSS,Information Technology,2.79,full_constituents,NSE_NIFTYIT_FACTSHEET_2026_04_30,Official factsheet lists all 10 constituents
+CW061,NIFTYFMCG,Nifty FMCG,2026-04-30,1,ITC Ltd.,ITC,Fast Moving Consumer Goods,28.66,top10_only,NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW062,NIFTYFMCG,Nifty FMCG,2026-04-30,2,Hindustan Unilever Ltd.,HINDUNILVR,Fast Moving Consumer Goods,18.86,top10_only,NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW063,NIFTYFMCG,Nifty FMCG,2026-04-30,3,Nestle India Ltd.,NESTLEIND,Fast Moving Consumer Goods,9.88,top10_only,NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW064,NIFTYFMCG,Nifty FMCG,2026-04-30,4,Tata Consumer Products Ltd.,TATACONSUM,Fast Moving Consumer Goods,7.04,top10_only,NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW065,NIFTYFMCG,Nifty FMCG,2026-04-30,5,Varun Beverages Ltd.,VBL,Fast Moving Consumer Goods,6.64,top10_only,NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW066,NIFTYFMCG,Nifty FMCG,2026-04-30,6,Britannia Industries Ltd.,BRITANNIA,Fast Moving Consumer Goods,6.37,top10_only,NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW067,NIFTYFMCG,Nifty FMCG,2026-04-30,7,Godrej Consumer Products Ltd.,GODREJCP,Fast Moving Consumer Goods,4.05,top10_only,NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW068,NIFTYFMCG,Nifty FMCG,2026-04-30,8,Marico Ltd.,MARICO,Fast Moving Consumer Goods,3.87,top10_only,NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW069,NIFTYFMCG,Nifty FMCG,2026-04-30,9,United Spirits Ltd.,UNITDSPR,Fast Moving Consumer Goods,3.70,top10_only,NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW070,NIFTYFMCG,Nifty FMCG,2026-04-30,10,Colgate Palmolive (India) Ltd.,COLPAL,Fast Moving Consumer Goods,2.61,top10_only,NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW071,NIFTYAUTO,Nifty Auto,2026-04-30,1,Mahindra & Mahindra Ltd.,M&M,Automobile and Auto Components,23.93,top10_only,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW072,NIFTYAUTO,Nifty Auto,2026-04-30,2,Maruti Suzuki India Ltd.,MARUTI,Automobile and Auto Components,15.11,top10_only,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW073,NIFTYAUTO,Nifty Auto,2026-04-30,3,Bajaj Auto Ltd.,BAJAJ-AUTO,Automobile and Auto Components,9.57,top10_only,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW074,NIFTYAUTO,Nifty Auto,2026-04-30,4,Eicher Motors Ltd.,EICHERMOT,Automobile and Auto Components,8.46,top10_only,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW075,NIFTYAUTO,Nifty Auto,2026-04-30,5,TVS Motor Company Ltd.,TVSMOTOR,Automobile and Auto Components,7.09,top10_only,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW076,NIFTYAUTO,Nifty Auto,2026-04-30,6,Tata Motors Passenger Vehicles Ltd.,TATAMTRDVR,Automobile and Auto Components,6.19,top10_only,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW077,NIFTYAUTO,Nifty Auto,2026-04-30,7,Hero MotoCorp Ltd.,HEROMOTOCO,Automobile and Auto Components,5.72,top10_only,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW078,NIFTYAUTO,Nifty Auto,2026-04-30,8,Samvardhana Motherson International Ltd.,MOTHERSON,Automobile and Auto Components,4.64,top10_only,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW079,NIFTYAUTO,Nifty Auto,2026-04-30,9,Bharat Forge Ltd.,BHARATFORG,Automobile and Auto Components,4.34,top10_only,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW080,NIFTYAUTO,Nifty Auto,2026-04-30,10,Ashok Leyland Ltd.,ASHOKLEY,Automobile and Auto Components,4.01,top10_only,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
