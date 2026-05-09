@@ -64,3 +64,7 @@ SW062,NIFTY500,Nifty 500,2026-04-30,"Realty",1.05,NSE_NIFTY500_FACTSHEET_2026_04
 SW063,NIFTY500,Nifty 500,2026-04-30,"Textiles",0.24,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
 SW064,NIFTY500,Nifty 500,2026-04-30,"Media, Entertainment & Publication",0.13,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
 SW065,NIFTY500,Nifty 500,2026-04-30,"Diversified",0.09,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet sector weight
+SW066,NIFTYBANK,Nifty Bank,2026-04-30,Financial Services,100.00,NSE_NIFTYBANK_FACTSHEET_2026_04_30,Sectoral index treated as single-sector exposure
+SW067,NIFTYIT,Nifty IT,2026-04-30,Information Technology,100.00,NSE_NIFTYIT_FACTSHEET_2026_04_30,Sectoral index treated as single-sector exposure
+SW068,NIFTYFMCG,Nifty FMCG,2026-04-30,Fast Moving Consumer Goods,100.00,NSE_NIFTYFMCG_FACTSHEET_2026_04_30,Sectoral index treated as single-sector exposure
+SW069,NIFTYAUTO,Nifty Auto,2026-04-30,Automobile and Auto Components,100.00,NSE_NIFTYAUTO_FACTSHEET_2026_04_30,Sectoral index treated as single-sector exposure
