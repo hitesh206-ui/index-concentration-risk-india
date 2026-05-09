@@ -9,3 +9,33 @@ CW007,NIFTY50,Nifty 50,2026-04-30,7,Infosys Ltd.,INFY,Information Technology,3.7
 CW008,NIFTY50,Nifty 50,2026-04-30,8,Axis Bank Ltd.,AXISBANK,Financial Services,3.31,top10_only,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
 CW009,NIFTY50,Nifty 50,2026-04-30,9,ITC Ltd.,ITC,Fast Moving Consumer Goods,2.76,top10_only,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
 CW010,NIFTY50,Nifty 50,2026-04-30,10,Kotak Mahindra Bank Ltd.,KOTAKBANK,Financial Services,2.56,top10_only,NSE_NIFTY50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW011,NIFTYNEXT50,Nifty Next 50,2026-04-30,1,Adani Power Ltd.,ADANIPOWER,Power,3.72,top10_only,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW012,NIFTYNEXT50,Nifty Next 50,2026-04-30,2,Tata Motors Ltd.,TATAMOTORS,Automobile and Auto Components,3.47,top10_only,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW013,NIFTYNEXT50,Nifty Next 50,2026-04-30,3,Divi's Laboratories Ltd.,DIVISLAB,Healthcare,3.35,top10_only,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW014,NIFTYNEXT50,Nifty Next 50,2026-04-30,4,Hindustan Aeronautics Ltd.,HAL,Capital Goods,3.34,top10_only,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW015,NIFTYNEXT50,Nifty Next 50,2026-04-30,5,TVS Motor Company Ltd.,TVSMOTOR,Automobile and Auto Components,3.32,top10_only,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW016,NIFTYNEXT50,Nifty Next 50,2026-04-30,6,Tata Power Co. Ltd.,TATAPOWER,Power,3.02,top10_only,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW017,NIFTYNEXT50,Nifty Next 50,2026-04-30,7,Cummins India Ltd.,CUMMINSIND,Capital Goods,2.88,top10_only,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW018,NIFTYNEXT50,Nifty Next 50,2026-04-30,8,Varun Beverages Ltd.,VBL,Fast Moving Consumer Goods,2.85,top10_only,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW019,NIFTYNEXT50,Nifty Next 50,2026-04-30,9,Avenue Supermarts Ltd.,DMART,Consumer Services,2.74,top10_only,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW020,NIFTYNEXT50,Nifty Next 50,2026-04-30,10,Britannia Industries Ltd.,BRITANNIA,Fast Moving Consumer Goods,2.73,top10_only,NSE_NIFTYNEXT50_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW021,NIFTY100,Nifty 100,2026-04-30,1,HDFC Bank Ltd.,HDFCBANK,Financial Services,8.77,top10_only,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW022,NIFTY100,Nifty 100,2026-04-30,2,Reliance Industries Ltd.,RELIANCE,"Oil, Gas & Consumable Fuels",7.17,top10_only,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW023,NIFTY100,Nifty 100,2026-04-30,3,ICICI Bank Ltd.,ICICIBANK,Financial Services,6.70,top10_only,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW024,NIFTY100,Nifty 100,2026-04-30,4,Bharti Airtel Ltd.,BHARTIARTL,Telecommunication,4.30,top10_only,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW025,NIFTY100,Nifty 100,2026-04-30,5,Larsen & Toubro Ltd.,LT,Construction,3.50,top10_only,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW026,NIFTY100,Nifty 100,2026-04-30,6,State Bank of India,SBIN,Financial Services,3.29,top10_only,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW027,NIFTY100,Nifty 100,2026-04-30,7,Infosys Ltd.,INFY,Information Technology,3.08,top10_only,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW028,NIFTY100,Nifty 100,2026-04-30,8,Axis Bank Ltd.,AXISBANK,Financial Services,2.70,top10_only,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW029,NIFTY100,Nifty 100,2026-04-30,9,ITC Ltd.,ITC,Fast Moving Consumer Goods,2.25,top10_only,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW030,NIFTY100,Nifty 100,2026-04-30,10,Kotak Mahindra Bank Ltd.,KOTAKBANK,Financial Services,2.09,top10_only,NSE_NIFTY100_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW031,NIFTY500,Nifty 500,2026-04-30,1,HDFC Bank Ltd.,HDFCBANK,Financial Services,6.09,top10_only,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW032,NIFTY500,Nifty 500,2026-04-30,2,Reliance Industries Ltd.,RELIANCE,"Oil, Gas & Consumable Fuels",4.98,top10_only,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW033,NIFTY500,Nifty 500,2026-04-30,3,ICICI Bank Ltd.,ICICIBANK,Financial Services,4.66,top10_only,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW034,NIFTY500,Nifty 500,2026-04-30,4,Bharti Airtel Ltd.,BHARTIARTL,Telecommunication,2.99,top10_only,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW035,NIFTY500,Nifty 500,2026-04-30,5,Larsen & Toubro Ltd.,LT,Construction,2.43,top10_only,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW036,NIFTY500,Nifty 500,2026-04-30,6,State Bank of India,SBIN,Financial Services,2.29,top10_only,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW037,NIFTY500,Nifty 500,2026-04-30,7,Infosys Ltd.,INFY,Information Technology,2.14,top10_only,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW038,NIFTY500,Nifty 500,2026-04-30,8,Axis Bank Ltd.,AXISBANK,Financial Services,1.88,top10_only,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW039,NIFTY500,Nifty 500,2026-04-30,9,ITC Ltd.,ITC,Fast Moving Consumer Goods,1.57,top10_only,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
+CW040,NIFTY500,Nifty 500,2026-04-30,10,Kotak Mahindra Bank Ltd.,KOTAKBANK,Financial Services,1.46,top10_only,NSE_NIFTY500_FACTSHEET_2026_04_30,Official factsheet top-10 constituent weight
